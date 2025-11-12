@@ -10,7 +10,7 @@ _Create and run a GitHub Actions workflow._
 
 _You've now added a fully functioning workflow to your repository! :smile:_
 
-:whateva:
+:whateva2:
 
 The shell script in the workflow will run whenever a new pull request is opened.
 
